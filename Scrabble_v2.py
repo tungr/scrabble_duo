@@ -8,7 +8,7 @@ from _thread import start_new_thread # imports thread library
 import threading
 
 versionS = '1.0.1'
-systemS = 'Windows 10'
+systemS = 'Ubuntu Linux'
 programS = 'Python/3.8'
 authorS = "Robert Tung"
 ENCODING = 'ascii'
